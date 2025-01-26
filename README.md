@@ -1,0 +1,1 @@
+A repo to learn and practice numerical methods in python
