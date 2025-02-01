@@ -1,2 +1,4 @@
 # dont want to share any books
 *.pdf
+# no virtual env
+venv
